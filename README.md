@@ -1,4 +1,4 @@
-
+```
 #todo
 #exemples d alias a adapter et ajouter dans votre bashrc 
 alias todolist='~/Scripts/todo/todolist.sh'
@@ -26,3 +26,4 @@ todountag 7
 todolistnotag
 #reorganiser les id des taches
 todoclear
+```
